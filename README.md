@@ -182,9 +182,3 @@ site_profile.md
 __pycache__/
 .env
 ```
-
----
-
-## 📜 라이선스
-
-MIT License
