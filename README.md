@@ -61,9 +61,6 @@ playwright install
 API_KEY = "YOUR_OLLAMA_API_KEY"
 ```
 
-⚠ 주의  
-공개 저장소에 실제 API Key를 업로드하지 마십시오.
-
 ---
 
 ## ▶ 실행 방법
